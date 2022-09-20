@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **abdimajida128@gmail.com**
 
-- ⚡ Fun fact **I play football and enjoy watching it**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
