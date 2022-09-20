@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amji-code&show_icons=true&locale=en&layout=compact" alt="amji-code" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amji-code&" alt="amji-code" /></p>
+
