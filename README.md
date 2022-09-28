@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Python and AI**
 
-- 👨‍💻 All of my projects are available at [abdimajid.com]
+- 👨‍💻 All of my projects are available at [abdimajid.com] (abdimajid.com)
 
 - 📫 How to reach me **abdimajida128@gmail.com**
 
