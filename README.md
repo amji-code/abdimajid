@@ -1,6 +1,5 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
 <h1 align="center">Hi 👋, I'm Abdimajid</h1>
-<h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
